@@ -61,7 +61,7 @@ export default function Home() {
             <div className={styles.txtBox}>
               <div className={styles.txtHeads}>
                 <p className={styles.sec1}>01.</p>
-                <p className={styles.about}>About Me</p>
+                <p className={styles.about}>Check Out Why People are loving Flushed</p>
               </div>
               <br />
               <br />

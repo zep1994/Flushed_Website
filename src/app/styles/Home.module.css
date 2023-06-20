@@ -1,20 +1,10 @@
-    .navigation {
-    background-color: #000;
-    width: 100%;
-    height: 80px;
-    display: flex;
-    justify-content: space-between;
-    font-family: "Source Code Pro", monospace;
-    align-items: center;
-    }
+    
 
     .container {
     height: 100%;
+    background-color: #0a192f;
     }
 
-    .navLinks {
-    display: flex;
-    }
 
     .locator {
     color: #60f7d3;
@@ -50,26 +40,6 @@
     opacity: 1;
     }
 
-    .navigation ul li {
-    padding: 10px;
-    font-size: 14px;
-    font-family: "Source Code Pro", monospace;
-    list-style-type: none;
-    align-items: center;
-    display: flex;
-    margin-right: 2rem;
-    }
-
-    .navigation li button {
-    background-color: #000;
-    border: 1px solid #60f7d3;
-    color: #60f7d3;
-    border-radius: 5px;
-    height: 45px;
-    width: 95px;
-    margin: 0;
-    font-family: "Source Code Pro", monospace;
-    }
 
     .socialLinks {
     position: fixed;
@@ -164,7 +134,7 @@
 
     .content2 {
     width: 1000px;
-    height: 900px;
+    height: 1600px;
     margin: auto;
     }
 
